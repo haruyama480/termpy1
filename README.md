@@ -1,5 +1,5 @@
 # termpy1
 
-依存関係のトポロジカルソート
+ディレクトリの依存関係
 
-- ansi <- pu2 <- game <- cmd
+- cmd -> game -> pu2 -> ansi
